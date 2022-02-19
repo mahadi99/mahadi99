@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Mahadi Hassan.
 #### Full Stack Web Developer.
 ![Full Stack Web Developer.](https://media-exp1.licdn.com/dms/image/C5603AQHcYqiZ6su5fg/profile-displayphoto-shrink_400_400/0/1644776806744?e=1650499200&v=beta&t=pKyuK4TwswIePkp3njvA870amsGgix1dgGdANheKtIg)
